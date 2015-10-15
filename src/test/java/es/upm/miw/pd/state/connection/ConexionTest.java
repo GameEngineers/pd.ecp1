@@ -1,4 +1,4 @@
-package es.upm.miw.pd.state.conection;
+package es.upm.miw.pd.state.connection;
 
 import org.junit.Before;
 import org.junit.Test;
